@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "361a24bf-3a5c-4aad-80cc-d9efff197461",
@@ -1944,6 +1947,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Ranin Akua",
           "note": "multilingual"
         },
