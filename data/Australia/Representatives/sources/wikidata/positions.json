@@ -3614,11 +3614,6 @@
   ],
   "Q4974135": [
     {
-      "id": "Q3315112",
-      "label": "Minister for Defence",
-      "title": "Minister for Defence"
-    },
-    {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
@@ -3630,7 +3625,12 @@
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
-      "title": "Member of the Australian House of Representatives"
+      "title": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1994-03-26",
+        "P768": "Mackellar",
+        "P1365": "Jim Carlton"
+      }
     },
     {
       "id": "Q7574256",
