@@ -1338,7 +1338,12 @@
     {
       "id": "Q17556530",
       "label": "Member of the Chamber of Deputies of Romania",
-      "title": "Member of the Chamber of Deputies of Romania"
+      "title": "Member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2002",
+        "P1365": "Q11718692",
+        "P768": "Poles in Romania"
+      }
     }
   ],
   "Q12730901": [
