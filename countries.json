@@ -2149,11 +2149,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1460854457",
+        "lastmod": "1462119428",
         "person_count": 63,
-        "sha": "610f3cb",
+        "sha": "b30e10c",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -2161,10 +2161,10 @@
             "start_date": "2011-06-02",
             "slug": "2011",
             "csv": "data/Cyprus/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/term-2011.csv"
           }
         ],
-        "statement_count": 3486
+        "statement_count": 3488
       }
     ]
   },
@@ -9475,11 +9475,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Tunisia/Majlis/sources",
         "popolo": "data/Tunisia/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65c4534/data/Tunisia/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b74b5c8/data/Tunisia/Majlis/ep-popolo-v1.0.json",
         "names": "data/Tunisia/Majlis/names.csv",
-        "lastmod": "1459628963",
-        "person_count": 217,
-        "sha": "65c4534",
+        "lastmod": "1462142473",
+        "person_count": 227,
+        "sha": "b74b5c8",
         "legislative_periods": [
           {
             "id": "term/1",
@@ -9487,10 +9487,10 @@
             "start_date": "2014-12-02",
             "slug": "1",
             "csv": "data/Tunisia/Majlis/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65c4534/data/Tunisia/Majlis/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b74b5c8/data/Tunisia/Majlis/term-1.csv"
           }
         ],
-        "statement_count": 4451
+        "statement_count": 4703
       }
     ]
   },
