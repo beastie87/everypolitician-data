@@ -2149,11 +2149,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1460854457",
+        "lastmod": "1462119428",
         "person_count": 63,
-        "sha": "610f3cb",
+        "sha": "b30e10c",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -2161,10 +2161,10 @@
             "start_date": "2011-06-02",
             "slug": "2011",
             "csv": "data/Cyprus/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/term-2011.csv"
           }
         ],
-        "statement_count": 3486
+        "statement_count": 3488
       }
     ]
   },
@@ -5401,11 +5401,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Madagascar/Assembly/sources",
         "popolo": "data/Madagascar/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65c4534/data/Madagascar/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3056fe0/data/Madagascar/Assembly/ep-popolo-v1.0.json",
         "names": "data/Madagascar/Assembly/names.csv",
-        "lastmod": "1459628963",
-        "person_count": 151,
-        "sha": "65c4534",
+        "lastmod": "1462129817",
+        "person_count": 201,
+        "sha": "3056fe0",
         "legislative_periods": [
           {
             "end_date": "2018",
@@ -5414,10 +5414,10 @@
             "start_date": "2013-12-20",
             "slug": "2013",
             "csv": "data/Madagascar/Assembly/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65c4534/data/Madagascar/Assembly/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3056fe0/data/Madagascar/Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 2444
+        "statement_count": 2956
       }
     ]
   },
