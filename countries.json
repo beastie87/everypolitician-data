@@ -2149,11 +2149,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1460854457",
+        "lastmod": "1462119428",
         "person_count": 63,
-        "sha": "610f3cb",
+        "sha": "b30e10c",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -2161,10 +2161,10 @@
             "start_date": "2011-06-02",
             "slug": "2011",
             "csv": "data/Cyprus/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/term-2011.csv"
           }
         ],
-        "statement_count": 3486
+        "statement_count": 3488
       }
     ]
   },
@@ -7510,11 +7510,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Romania/Deputies/sources",
         "popolo": "data/Romania/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/334d2f2/data/Romania/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e211bd/data/Romania/Deputies/ep-popolo-v1.0.json",
         "names": "data/Romania/Deputies/names.csv",
-        "lastmod": "1460904385",
+        "lastmod": "1462150405",
         "person_count": 417,
-        "sha": "334d2f2",
+        "sha": "3e211bd",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -7522,10 +7522,10 @@
             "start_date": "2012-12-12",
             "slug": "2012",
             "csv": "data/Romania/Deputies/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/334d2f2/data/Romania/Deputies/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e211bd/data/Romania/Deputies/term-2012.csv"
           }
         ],
-        "statement_count": 21360
+        "statement_count": 21372
       }
     ]
   },
