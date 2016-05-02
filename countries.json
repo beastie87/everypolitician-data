@@ -2149,11 +2149,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1460854457",
+        "lastmod": "1462119428",
         "person_count": 63,
-        "sha": "610f3cb",
+        "sha": "b30e10c",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -2161,10 +2161,10 @@
             "start_date": "2011-06-02",
             "slug": "2011",
             "csv": "data/Cyprus/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610f3cb/data/Cyprus/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b30e10c/data/Cyprus/House_of_Representatives/term-2011.csv"
           }
         ],
-        "statement_count": 3486
+        "statement_count": 3488
       }
     ]
   },
@@ -2982,11 +2982,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/33e55f5/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fc01688/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1461599282",
-        "person_count": 640,
-        "sha": "33e55f5",
+        "lastmod": "1462159892",
+        "person_count": 641,
+        "sha": "fc01688",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -2994,10 +2994,10 @@
             "start_date": "2012-06-20",
             "slug": "14",
             "csv": "data/France/National_Assembly/term-14.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/33e55f5/data/France/National_Assembly/term-14.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fc01688/data/France/National_Assembly/term-14.csv"
           }
         ],
-        "statement_count": 47912
+        "statement_count": 48403
       }
     ]
   },
