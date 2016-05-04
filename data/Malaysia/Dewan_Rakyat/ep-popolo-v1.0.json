@@ -4635,16 +4635,11 @@
       "name": "Ahamed Hambal Yeop Majlis"
     },
     {
-      "gender": "male",
       "id": "e02c478e-ab23-4307-b517-cf060f25d9c9",
       "identifiers": [
         {
           "identifier": "ahmad_abdullah",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12682110",
-          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -4653,27 +4648,11 @@
           "url": "https://en.wikipedia.org/wiki/Ahmad_Abdullah"
         },
         {
-          "note": "Wikipedia (ms)",
-          "url": "https://ms.wikipedia.org/wiki/Ahmad_Abdullah_(Kelantan)"
-        },
-        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Ahmad_Abdullah"
         }
       ],
-      "name": "Ahmad Abdullah",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ahmad Abdullah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ms",
-          "name": "Ahmad Abdullah",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Ahmad Abdullah"
     },
     {
       "id": "ffc91708-a6c0-4ffa-8534-361aa4d4ecaa",
@@ -6096,6 +6075,10 @@
         {
           "identifier": "alice_lau_kiong_yieng",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23879789",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -6108,7 +6091,14 @@
           "url": "http://en.wikipedia.org/wiki/Alice_Lau_Kiong_Yieng"
         }
       ],
-      "name": "Alice Lau Kiong Yieng"
+      "name": "Alice Lau Kiong Yieng",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alice Lau Kiong Yieng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1fae70fc-74be-4ee0-b092-2e9e581548e6",
@@ -14163,31 +14153,9 @@
         {
           "identifier": "hassan_mansor",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12687591",
-          "scheme": "wikidata"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ms)",
-          "url": "https://ms.wikipedia.org/wiki/Hassan_Mansor"
-        }
-      ],
-      "name": "Hassan Mansor",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Hassan Mansor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ms",
-          "name": "Hassan Mansor",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Hassan Mansor"
     },
     {
       "id": "19ff0259-ffbe-4360-af04-ef8c9ef43e6a",
@@ -37665,6 +37633,12 @@
     },
     {
       "id": "a8af931f-1e6b-46b1-a9cb-ebe71cfd1ee5",
+      "identifiers": [
+        {
+          "identifier": "Q24004299",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -37675,7 +37649,14 @@
           "url": "http://en.wikipedia.org/wiki/S._Vigneswaran_M._Sanasee"
         }
       ],
-      "name": "S. Vigneswaran M. Sanasee"
+      "name": "S. Vigneswaran M. Sanasee",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "S. Vigneswaran M. Sanasee",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "347ae7c3-bdb8-487e-8b79-f652b3db9832",
@@ -45503,10 +45484,6 @@
         {
           "identifier": "veerappen_veerathan",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20464841",
-          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -45515,26 +45492,11 @@
           "url": "https://en.wikipedia.org/wiki/Veerappen_Veerathan"
         },
         {
-          "note": "Wikipedia (ms)",
-          "url": "https://ms.wikipedia.org/wiki/V._Veerappen"
-        },
-        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Veerappen_Veerathan"
         }
       ],
-      "name": "Veerappen Veerathan",
-      "other_names": [
-        {
-          "name": "V. Veerappen",
-          "note": "alternate"
-        },
-        {
-          "lang": "ms",
-          "name": "V. Veerappen",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Veerappen Veerathan"
     },
     {
       "id": "d4598708-fe4a-4ce5-8ff0-dccf082fd16c",
@@ -46825,6 +46787,10 @@
         {
           "identifier": "wilfred_madius_tangau",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24004301",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -46837,7 +46803,14 @@
           "url": "http://en.wikipedia.org/wiki/Wilfred_Madius_Tangau"
         }
       ],
-      "name": "Wilfred Madius Tangau"
+      "name": "Wilfred Madius Tangau",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wilfred Madius Tangau",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-01-27",
@@ -47338,10 +47311,6 @@
         {
           "identifier": "yahya_ahmad",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12712706",
-          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -47350,22 +47319,11 @@
           "url": "https://en.wikipedia.org/wiki/Yahya_Ahmad"
         },
         {
-          "note": "Wikipedia (ms)",
-          "url": "https://ms.wikipedia.org/wiki/Yahya_Ahmad"
-        },
-        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Yahya_Ahmad"
         }
       ],
-      "name": "Yahya Ahmad",
-      "other_names": [
-        {
-          "lang": "ms",
-          "name": "Yahya Ahmad",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Yahya Ahmad"
     },
     {
       "id": "753c170e-c0ee-40af-afd9-c6a1d9ff6950",
