@@ -63,6 +63,11 @@
         "count": 1
       },
       {
+        "id": "Q24700014",
+        "name": "Q24700014",
+        "count": 1
+      },
+      {
         "id": "Q121998",
         "name": "ambassador",
         "count": 1
@@ -76,6 +81,11 @@
         "id": "Q1055894",
         "name": "deputy",
         "count": 1
+      },
+      {
+        "id": "Q1339249",
+        "name": "syndic",
+        "count": 3
       }
     ]
   }
