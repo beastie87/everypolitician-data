@@ -3661,11 +3661,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Greece/Parliament/sources",
         "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/ep-popolo-v1.0.json",
         "names": "data/Greece/Parliament/names.csv",
-        "lastmod": "1466995037",
+        "lastmod": "1467234317",
         "person_count": 1783,
-        "sha": "2ddc998",
+        "sha": "a4b64a1",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -3673,7 +3673,7 @@
             "start_date": "2015-09-20",
             "slug": "17",
             "csv": "data/Greece/Parliament/term-17.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-17.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-17.csv"
           },
           {
             "end_date": "2015-08-28",
@@ -3682,7 +3682,7 @@
             "start_date": "2015-01-25",
             "slug": "16",
             "csv": "data/Greece/Parliament/term-16.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-16.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-16.csv"
           },
           {
             "end_date": "2014-12-31",
@@ -3691,7 +3691,7 @@
             "start_date": "2012-06-17",
             "slug": "15",
             "csv": "data/Greece/Parliament/term-15.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-15.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-15.csv"
           },
           {
             "end_date": "2012-05-19",
@@ -3700,7 +3700,7 @@
             "start_date": "2012-05-06",
             "slug": "14",
             "csv": "data/Greece/Parliament/term-14.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-14.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-14.csv"
           },
           {
             "end_date": "2012-04-11",
@@ -3709,7 +3709,7 @@
             "start_date": "2009-10-04",
             "slug": "13",
             "csv": "data/Greece/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-13.csv"
           },
           {
             "end_date": "2009-09-07",
@@ -3718,7 +3718,7 @@
             "start_date": "2007-09-16",
             "slug": "12",
             "csv": "data/Greece/Parliament/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-12.csv"
           },
           {
             "end_date": "2007-08-18",
@@ -3727,7 +3727,7 @@
             "start_date": "2004-03-07",
             "slug": "11",
             "csv": "data/Greece/Parliament/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-11.csv"
           },
           {
             "end_date": "2004-02-11",
@@ -3736,7 +3736,7 @@
             "start_date": "2000-04-09",
             "slug": "10",
             "csv": "data/Greece/Parliament/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-10.csv"
           },
           {
             "end_date": "2000-03-14",
@@ -3745,7 +3745,7 @@
             "start_date": "1996-09-22",
             "slug": "9",
             "csv": "data/Greece/Parliament/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-9.csv"
           },
           {
             "end_date": "1996-08-24",
@@ -3754,7 +3754,7 @@
             "start_date": "1993-10-10",
             "slug": "8",
             "csv": "data/Greece/Parliament/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-8.csv"
           },
           {
             "end_date": "1993-09-11",
@@ -3763,7 +3763,7 @@
             "start_date": "1990-04-08",
             "slug": "7",
             "csv": "data/Greece/Parliament/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-7.csv"
           },
           {
             "end_date": "1990-03-12",
@@ -3772,7 +3772,7 @@
             "start_date": "1989-11-05",
             "slug": "6",
             "csv": "data/Greece/Parliament/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-6.csv"
           },
           {
             "end_date": "1989-10-12",
@@ -3781,7 +3781,7 @@
             "start_date": "1989-06-18",
             "slug": "5",
             "csv": "data/Greece/Parliament/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-5.csv"
           },
           {
             "end_date": "1989-06-02",
@@ -3790,7 +3790,7 @@
             "start_date": "1985-06-02",
             "slug": "4",
             "csv": "data/Greece/Parliament/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-4.csv"
           },
           {
             "end_date": "1985-05-07",
@@ -3799,7 +3799,7 @@
             "start_date": "1981-10-18",
             "slug": "3",
             "csv": "data/Greece/Parliament/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-3.csv"
           },
           {
             "end_date": "1981-09-19",
@@ -3808,7 +3808,7 @@
             "start_date": "1977-11-20",
             "slug": "2",
             "csv": "data/Greece/Parliament/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-2.csv"
           },
           {
             "end_date": "1977-10-22",
@@ -3817,10 +3817,10 @@
             "start_date": "1974-11-17",
             "slug": "1",
             "csv": "data/Greece/Parliament/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddc998/data/Greece/Parliament/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4b64a1/data/Greece/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 60885
+        "statement_count": 60887
       }
     ]
   },
@@ -8446,11 +8446,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Singapore/Parliament/sources",
         "popolo": "data/Singapore/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/ep-popolo-v1.0.json",
         "names": "data/Singapore/Parliament/names.csv",
-        "lastmod": "1466353772",
+        "lastmod": "1467189931",
         "person_count": 402,
-        "sha": "ff27eca",
+        "sha": "3a1561a",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -8458,7 +8458,7 @@
             "start_date": "2016-01-15",
             "slug": "13",
             "csv": "data/Singapore/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-13.csv"
           },
           {
             "end_date": "2015-08-25",
@@ -8467,7 +8467,7 @@
             "start_date": "2011-10-10",
             "slug": "12",
             "csv": "data/Singapore/Parliament/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-12.csv"
           },
           {
             "end_date": "2011-04-19",
@@ -8476,7 +8476,7 @@
             "start_date": "2006-11-02",
             "slug": "11",
             "csv": "data/Singapore/Parliament/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-11.csv"
           },
           {
             "end_date": "2006-04-19",
@@ -8485,7 +8485,7 @@
             "start_date": "2002-03-25",
             "slug": "10",
             "csv": "data/Singapore/Parliament/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-10.csv"
           },
           {
             "end_date": "2001-10-17",
@@ -8494,7 +8494,7 @@
             "start_date": "1997-05-26",
             "slug": "9",
             "csv": "data/Singapore/Parliament/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-9.csv"
           },
           {
             "end_date": "1996-12-15",
@@ -8503,7 +8503,7 @@
             "start_date": "1992-01-06",
             "slug": "8",
             "csv": "data/Singapore/Parliament/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-8.csv"
           },
           {
             "end_date": "1991-08-13",
@@ -8512,7 +8512,7 @@
             "start_date": "1989-01-09",
             "slug": "7",
             "csv": "data/Singapore/Parliament/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-7.csv"
           },
           {
             "end_date": "1988-08-16",
@@ -8521,7 +8521,7 @@
             "start_date": "1985-02-25",
             "slug": "6",
             "csv": "data/Singapore/Parliament/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-6.csv"
           },
           {
             "end_date": "1984-12-03",
@@ -8530,7 +8530,7 @@
             "start_date": "1981-02-03",
             "slug": "5",
             "csv": "data/Singapore/Parliament/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-5.csv"
           },
           {
             "end_date": "1980-12-04",
@@ -8539,7 +8539,7 @@
             "start_date": "1977-02-07",
             "slug": "4",
             "csv": "data/Singapore/Parliament/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-4.csv"
           },
           {
             "end_date": "1976-12-06",
@@ -8548,7 +8548,7 @@
             "start_date": "1972-10-12",
             "slug": "3",
             "csv": "data/Singapore/Parliament/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-3.csv"
           },
           {
             "end_date": "1972-08-16",
@@ -8557,7 +8557,7 @@
             "start_date": "1968-05-06",
             "slug": "2",
             "csv": "data/Singapore/Parliament/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-2.csv"
           },
           {
             "end_date": "1968-02-08",
@@ -8566,7 +8566,7 @@
             "start_date": "1965-12-08",
             "slug": "1",
             "csv": "data/Singapore/Parliament/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ff27eca/data/Singapore/Parliament/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a1561a/data/Singapore/Parliament/term-1.csv"
           }
         ],
         "statement_count": 15359
