@@ -36,6 +36,11 @@
         "lang": "nl",
         "name": "Uruguayan general election, 1999",
         "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Opći izbori u Urugvaju 1999.",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -851,6 +856,7 @@
     "dates": [
       "2014-10-26"
     ],
+    "follows": "2009 Uruguayan general election",
     "successful_candidates": [
       "Tabaré Vázquez"
     ]
