@@ -1304,6 +1304,15 @@
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
       "description": "member of the Irish Parliament"
+    },
+    {
+      "id": "Q25342400",
+      "label": "Minister of State for Tourism and Sport",
+      "title": "Minister of State for Tourism and Sport",
+      "description": "Irish minister of state",
+      "qualifiers": {
+        "P580": "2016-05-19"
+      }
     }
   ],
   "Q3777612": [
@@ -1758,15 +1767,33 @@
   ],
   "Q3777472": [
     {
-      "id": "Q6866523",
-      "label": "Ministers of State of the 31st Dáil",
-      "title": "Ministers of State of the 31st Dáil"
+      "id": "Q25342399",
+      "label": "Minister of State for Regional Economic Development",
+      "title": "Minister of State for Regional Economic Development",
+      "description": "Irish Minister of State",
+      "qualifiers": {
+        "P580": "2016-05-19"
+      }
     },
     {
       "id": "Q654291",
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
-      "description": "member of the Irish Parliament"
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P580": "1994-06"
+      }
+    },
+    {
+      "id": "Q25342400",
+      "label": "Minister of State for Tourism and Sport",
+      "title": "Minister of State for Tourism and Sport",
+      "description": "Irish minister of state",
+      "qualifiers": {
+        "P580": "2011-03-10",
+        "P582": "2016-05-19",
+        "P1366": "Patrick O'Donovan"
+      }
     }
   ],
   "Q5221987": [
