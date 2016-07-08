@@ -5,6 +5,12 @@
   "persons": [
     {
       "birth_date": "1964-07-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "aosnodaigh"
+        }
+      ],
       "family_name": "Ó Snodaigh",
       "gender": "male",
       "given_name": "Aengus",
@@ -25,6 +31,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/5.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/527912627444678656/zQHAm5GW.jpeg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Aengus_O_Snodaigh_TD.jpg"
         }
       ],
@@ -36,10 +45,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Aengus_Ó_Snodaigh"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/aosnodaigh"
         }
       ],
       "name": "Aengus Ó Snodaigh",
       "other_names": [
+        {
+          "name": "Aengus O Snodaigh",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Aengus Ó Snodaigh",
@@ -206,6 +223,12 @@
     },
     {
       "birth_date": "1975-07-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "alankellylabour"
+        }
+      ],
       "family_name": "Kelly",
       "gender": "male",
       "given_name": "Alan",
@@ -228,6 +251,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/287.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/706576415932678148/094j73-g.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Alan_Kelly_2011.jpg"
@@ -253,6 +279,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Alan_Kelly_(polityk)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/alankellylabour"
         },
         {
           "note": "website",
@@ -331,6 +361,12 @@
     },
     {
       "birth_date": "1951-02-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Alan__Shatter"
+        }
+      ],
       "family_name": "Shatter",
       "gender": "male",
       "given_name": "Alan",
@@ -367,6 +403,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/6.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/378800000865771401/qlSpHRPG.jpeg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Alan_Shatter.jpg"
         }
       ],
@@ -390,6 +429,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/אלן_שאטר"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Alan__Shatter"
         },
         {
           "note": "website",
@@ -448,6 +491,12 @@
     },
     {
       "birth_date": "1958-12-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlexWhiteSC"
+        }
+      ],
       "family_name": "White",
       "gender": "male",
       "given_name": "Alex",
@@ -468,6 +517,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/275.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/436458587364134912/cG4xuaBN.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Alex_White_TD_2014_(cropped).jpg"
         }
       ],
@@ -483,6 +535,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Alex_White"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlexWhiteSC"
         },
         {
           "note": "website",
@@ -561,6 +617,12 @@
     },
     {
       "birth_date": "1960-07-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ADoyleTD"
+        }
+      ],
       "family_name": "Doyle",
       "gender": "male",
       "given_name": "Andrew",
@@ -581,6 +643,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/7.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/3222453866/4811cbb1522f62394f04fc45a1f2141a.jpeg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Andrew_Doyle_Ireland_Senate_of_Poland.JPG"
         }
       ],
@@ -596,6 +661,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Andrew_Doyle"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ADoyleTD"
         },
         {
           "note": "website",
@@ -722,6 +791,12 @@
     },
     {
       "birth_date": "1954-09-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AnneFerrisTD"
+        }
+      ],
       "family_name": "Ferris",
       "gender": "female",
       "given_name": "Anne",
@@ -740,6 +815,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/357.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2360360188/240x160_anneferris.jpg"
         }
       ],
       "links": [
@@ -750,6 +828,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Anne_Ferris"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AnneFerrisTD"
         }
       ],
       "name": "Anne Ferris",
@@ -836,6 +918,12 @@
     },
     {
       "birth_date": "1959-06-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AnthonyLawlorFG"
+        }
+      ],
       "family_name": "Lawlor",
       "gender": "male",
       "given_name": "Anthony",
@@ -854,6 +942,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/339.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/451397674365771776/JySXa2vJ.jpeg"
         }
       ],
       "links": [
@@ -864,6 +955,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Anthony_Lawlor"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AnthonyLawlorFG"
         },
         {
           "note": "website",
@@ -917,6 +1012,12 @@
     },
     {
       "birth_date": "1976-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AodhanORiordain"
+        }
+      ],
       "family_name": "Ó Ríordáin",
       "gender": "male",
       "given_name": "Aodhán",
@@ -937,6 +1038,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/322.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/750406913674936320/3qyF_rlC.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Aodhán_Ó_Ríordáin.jpg"
         }
       ],
@@ -948,6 +1052,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Aodhán_Ó_Ríordáin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AodhanORiordain"
         },
         {
           "note": "website",
@@ -991,6 +1099,12 @@
     },
     {
       "birth_date": "1976-07-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SpringAJ"
+        }
+      ],
       "family_name": "Spring",
       "gender": "male",
       "given_name": "Arthur",
@@ -1009,6 +1123,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/335.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/746654217696321536/Fhye_L2s.jpg"
         }
       ],
       "links": [
@@ -1019,6 +1136,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Arthur_Spring"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SpringAJ"
         }
       ],
       "name": "Arthur Spring",
@@ -1057,6 +1178,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CowenBarry"
+        }
+      ],
       "family_name": "Cowen",
       "gender": "male",
       "given_name": "Barry",
@@ -1075,6 +1202,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/355.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/425210254784466944/Ya5qc2nN.jpeg"
         }
       ],
       "links": [
@@ -1085,6 +1215,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Barry_Cowen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CowenBarry"
         }
       ],
       "name": "Barry Cowen",
@@ -1124,6 +1258,12 @@
     },
     {
       "birth_date": "1945-03-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BernardDurkanTD"
+        }
+      ],
       "family_name": "Durkan",
       "gender": "male",
       "given_name": "Bernard",
@@ -1142,6 +1282,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/14.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/689869205353684993/RfvGWYE5.png"
         }
       ],
       "links": [
@@ -1160,6 +1303,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Bernard_Durkan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BernardDurkanTD"
         }
       ],
       "name": "Bernard Durkan",
@@ -1308,6 +1455,12 @@
     },
     {
       "birth_date": "1959-10-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Billy_Timmins"
+        }
+      ],
       "family_name": "Timmins",
       "gender": "male",
       "given_name": "Billy",
@@ -1326,6 +1479,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/18.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/689786090652340224/1SpEKUvo.jpg"
         }
       ],
       "links": [
@@ -1340,6 +1496,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Billy_Timmins"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Billy_Timmins"
         }
       ],
       "name": "Billy Timmins",
@@ -1475,6 +1635,12 @@
     },
     {
       "birth_date": "1982-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BGriffinTD"
+        }
+      ],
       "family_name": "Griffin",
       "gender": "male",
       "given_name": "Brendan",
@@ -1495,6 +1661,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/338.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/431178712521138177/g1AopCLw.jpeg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Brendan_Griffin,_T.D._Fine_Gael.JPG"
         }
       ],
@@ -1506,6 +1675,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Brendan_Griffin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BGriffinTD"
         },
         {
           "note": "website",
@@ -1659,6 +1832,12 @@
     },
     {
       "birth_date": "1953-02-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BrendanRyanTD"
+        }
+      ],
       "family_name": "Ryan",
       "gender": "male",
       "given_name": "Brendan",
@@ -1677,6 +1856,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/245.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/684774361220444160/ji9NiS1y.jpg"
         }
       ],
       "links": [
@@ -1687,6 +1869,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Brendan_Ryan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BrendanRyanTD"
         }
       ],
       "name": "Brendan Ryan",
@@ -1741,6 +1927,12 @@
     },
     {
       "birth_date": "1956-06-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BrendanSmithTD"
+        }
+      ],
       "family_name": "Smith",
       "gender": "male",
       "given_name": "Brendan",
@@ -1763,6 +1955,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/258.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/696031007984713729/m4uDSdLO.jpg"
         }
       ],
       "links": [
@@ -1781,6 +1976,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Brendan_Smith"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BrendanSmithTD"
         },
         {
           "note": "website",
@@ -1839,6 +2038,12 @@
     },
     {
       "birth_date": "1961-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BrianStanleyTD"
+        }
+      ],
       "family_name": "Stanley",
       "gender": "male",
       "given_name": "Brian",
@@ -1859,6 +2064,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/356.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/1575782466/Brian_20Stanley_20TD.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brian_Stanley_2013.jpg"
         }
       ],
@@ -1870,6 +2078,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Brian_Stanley"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BrianStanleyTD"
         }
       ],
       "name": "Brian Stanley",
@@ -2325,6 +2537,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cathmartingreen"
+        }
+      ],
       "family_name": "Martin",
       "gender": "female",
       "given_name": "Catherine",
@@ -2339,6 +2557,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/411.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/688253712741994496/BZ8Uj0QD.png"
         }
       ],
       "links": [
@@ -2349,6 +2570,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Catherine_Martin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/cathmartingreen"
         }
       ],
       "name": "Catherine Martin",
@@ -2373,6 +2598,12 @@
     },
     {
       "birth_date": "1953-09-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CathMurphyTD"
+        }
+      ],
       "family_name": "Murphy",
       "gender": "female",
       "given_name": "Catherine",
@@ -2397,6 +2628,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/204.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/701725222035025920/nLmArFXZ.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Catherine_Murphy_politician_frameless_photo.jpg"
         }
       ],
@@ -2408,6 +2642,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Catherine_Murphy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CathMurphyTD"
         },
         {
           "note": "website",
@@ -2596,6 +2834,12 @@
     },
     {
       "birth_date": "1977-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "McConalogue"
+        }
+      ],
       "family_name": "McConalogue",
       "gender": "male",
       "given_name": "Charlie",
@@ -2616,6 +2860,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/313.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/693434646726598656/T6HR90m3.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Charlie_McConalogue_2011.jpg"
         }
       ],
@@ -2627,6 +2874,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Charlie_McConalogue"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/McConalogue"
         }
       ],
       "name": "Charlie McConalogue",
@@ -2676,6 +2927,12 @@
     },
     {
       "birth_date": "1980-08-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ciaramconway"
+        }
+      ],
       "family_name": "Conway",
       "gender": "female",
       "given_name": "Ciara",
@@ -2696,6 +2953,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/352.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/723776456082481152/5eY_-N56.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ciara_Conway_2014.jpg"
         }
       ],
@@ -2707,6 +2967,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Ciara_Conway"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ciaramconway"
         }
       ],
       "name": "Ciara Conway",
@@ -2756,6 +3020,12 @@
     },
     {
       "birth_date": "1965-09-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ciarancannon"
+        }
+      ],
       "family_name": "Cannon",
       "gender": "male",
       "given_name": "Ciarán",
@@ -2774,6 +3044,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/58.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/608028223260073985/LUhrXtEy.png"
         }
       ],
       "links": [
@@ -2796,10 +3069,18 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Ciarán_Cannon"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ciarancannon"
         }
       ],
       "name": "Ciarán Cannon",
       "other_names": [
+        {
+          "name": "Ciaran Cannon",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "كياران كانون",
@@ -2855,6 +3136,12 @@
     },
     {
       "birth_date": "1964-06-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CiaranALynch"
+        }
+      ],
       "family_name": "Lynch",
       "gender": "male",
       "given_name": "Ciarán",
@@ -2873,6 +3160,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/168.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/707212143041585156/uComJ4W-.jpg"
         }
       ],
       "links": [
@@ -2885,12 +3175,20 @@
           "url": "https://ga.wikipedia.org/wiki/Ciarán_Lynch"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/CiaranALynch"
+        },
+        {
           "note": "website",
           "url": "http://www.ciaranlynch.ie"
         }
       ],
       "name": "Ciarán Lynch",
       "other_names": [
+        {
+          "name": "Ciaran Lynch",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Ciarán Lynch",
@@ -3080,6 +3378,12 @@
     },
     {
       "birth_date": "1971-01-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Colm_Keaveney"
+        }
+      ],
       "family_name": "Keaveney",
       "gender": "male",
       "given_name": "Colm",
@@ -3098,6 +3402,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/333.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/730985020756660224/azsO4guO.jpg"
         }
       ],
       "links": [
@@ -3108,6 +3415,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Colm_Keaveney"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Colm_Keaveney"
         },
         {
           "note": "website",
@@ -3151,6 +3462,12 @@
     },
     {
       "birth_date": "1978-02-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Damien_English"
+        }
+      ],
       "family_name": "English",
       "gender": "male",
       "given_name": "Damien",
@@ -3175,6 +3492,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/106.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/654370683791781888/ddgnXhIi.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Damien_English_2015.jpg"
         }
       ],
@@ -3194,6 +3514,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Damien_English"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Damien_English"
         },
         {
           "note": "website",
@@ -3257,6 +3581,12 @@
     },
     {
       "birth_date": "1946-12-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DanNevilleTD"
+        }
+      ],
       "family_name": "Neville",
       "gender": "male",
       "given_name": "Dan",
@@ -3275,6 +3605,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/207.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/554837980/DN_EL_2.PRINT.JPG"
         }
       ],
       "links": [
@@ -3293,6 +3626,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Dan_Neville"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DanNevilleTD"
         },
         {
           "note": "website",
@@ -3389,6 +3726,12 @@
     },
     {
       "birth_date": "1973-05-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "daracalleary"
+        }
+      ],
       "family_name": "Calleary",
       "gender": "male",
       "given_name": "Dara",
@@ -3409,6 +3752,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/56.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/726717886941782017/tWyGeDli.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dara_Calleary_cropped.jpg"
         }
       ],
@@ -3424,6 +3770,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Dara_Calleary"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/daracalleary"
         },
         {
           "note": "website",
@@ -3562,6 +3912,12 @@
     },
     {
       "birth_date": "1974-07-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DarraghOBrienTD"
+        }
+      ],
       "family_name": "O'Brien",
       "gender": "male",
       "given_name": "Darragh",
@@ -3576,6 +3932,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/211.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/737242218654781440/vLD9OMlN.jpg"
         }
       ],
       "links": [
@@ -3590,6 +3949,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Darragh_O'Brien"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DarraghOBrienTD"
         },
         {
           "note": "website",
@@ -3648,6 +4011,12 @@
     },
     {
       "birth_date": "1974-07-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "davidcullinane"
+        }
+      ],
       "family_name": "Cullinane",
       "gender": "male",
       "given_name": "David",
@@ -3664,6 +4033,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/371.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/656153651547873280/LLvzzhtJ.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/David_Cullinane_2014.jpg"
         }
       ],
@@ -3675,6 +4047,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/David_Cullinane"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/davidcullinane"
         }
       ],
       "name": "David Cullinane",
@@ -3719,6 +4095,12 @@
     },
     {
       "birth_date": "1957-02-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "davidstantontd"
+        }
+      ],
       "family_name": "Stanton",
       "gender": "male",
       "given_name": "David",
@@ -3741,6 +4123,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/261.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/743819195238985728/UNssvQiD.jpg"
         }
       ],
       "links": [
@@ -3755,6 +4140,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/David_Stanton"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/davidstantontd"
         },
         {
           "note": "website",
@@ -3880,6 +4269,12 @@
     },
     {
       "birth_date": "1973-06-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DenisNaughten"
+        }
+      ],
       "family_name": "Naughten",
       "gender": "male",
       "given_name": "Denis",
@@ -3898,6 +4293,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/206.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/748886155656134656/W8iReWeO.jpg"
         }
       ],
       "links": [
@@ -3920,6 +4318,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Denis_Naughten"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DenisNaughten"
         },
         {
           "note": "website",
@@ -4100,6 +4502,12 @@
     },
     {
       "birth_date": "1982",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "dereknolanTD"
+        }
+      ],
       "family_name": "Nolan",
       "gender": "male",
       "given_name": "Derek",
@@ -4120,6 +4528,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/334.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/612253891267182592/TBgwQHsE.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Derek_Nolan_Election_Photo.jpg"
         }
       ],
@@ -4131,6 +4542,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Derek_Nolan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dereknolanTD"
         }
       ],
       "name": "Derek Nolan",
@@ -4180,6 +4595,16 @@
     },
     {
       "birth_date": "1953",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DessieEllisTD"
+        },
+        {
+          "type": "twitter",
+          "value": "cllrdessieellis"
+        }
+      ],
       "family_name": "Ellis",
       "gender": "male",
       "given_name": "Dessie",
@@ -4198,6 +4623,12 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/324.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2165259725/D43C5D29B45D4805AEE22C9462507098.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1226170401/dessie.jpg"
         }
       ],
       "links": [
@@ -4208,6 +4639,14 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Dessie_Ellis"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DessieEllisTD"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/cllrdessieellis"
         },
         {
           "note": "website",
@@ -4251,6 +4690,12 @@
     },
     {
       "birth_date": "1945-04-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DinnyMcG"
+        }
+      ],
       "family_name": "McGinley",
       "gender": "male",
       "given_name": "Dinny",
@@ -4269,6 +4714,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/183.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/235292583/McGinleyD.jpg"
         }
       ],
       "links": [
@@ -4287,6 +4735,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Dinny_McGinley"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DinnyMcG"
         }
       ],
       "name": "Dinny McGinley",
@@ -4346,6 +4798,12 @@
     },
     {
       "birth_date": "1965-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Domhannigan"
+        }
+      ],
       "family_name": "Hannigan",
       "gender": "male",
       "given_name": "Dominic",
@@ -4370,6 +4828,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/132.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/703729870837325826/IuPcHKHA.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dominic_Hannigan.jpg"
         }
       ],
@@ -4385,6 +4846,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Dominic_Hannigan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Domhannigan"
         },
         {
           "note": "website",
@@ -5087,6 +5552,12 @@
     },
     {
       "birth_date": "1951-04-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EndaKennyTD"
+        }
+      ],
       "family_name": "Kenny",
       "gender": "male",
       "given_name": "Enda",
@@ -5129,6 +5600,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/156.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/602796388557189120/CU6USdKm.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/EndaKenny.jpg"
@@ -5342,6 +5816,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/恩达·肯尼"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EndaKennyTD"
         }
       ],
       "name": "Enda Kenny",
@@ -5626,6 +6104,12 @@
     },
     {
       "birth_date": "1982-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MurphyEoghan"
+        }
+      ],
       "family_name": "Murphy",
       "gender": "male",
       "given_name": "Eoghan",
@@ -5646,6 +6130,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/331.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/700430625786982400/g2EQZPxO.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Eoghan_Murphy_2014.png"
         }
       ],
@@ -5657,6 +6144,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Eoghan_Murphy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MurphyEoghan"
         },
         {
           "note": "website",
@@ -5710,6 +6201,12 @@
     },
     {
       "birth_date": "1972",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EOBroin"
+        }
+      ],
       "family_name": "Ó Broin",
       "gender": "male",
       "given_name": "Eoin",
@@ -5726,6 +6223,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/407.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/658769653636927488/BNsRM9Rs.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Eoin_Ó_Broin_2012.jpg"
         }
       ],
@@ -5737,10 +6237,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Eoin_Ó_Broin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EOBroin"
         }
       ],
       "name": "Eoin Ó Broin",
       "other_names": [
+        {
+          "name": "Eoin O Broin",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Eoin Ó Broin",
@@ -5781,6 +6289,12 @@
     },
     {
       "birth_date": "1947-04-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EricByrneTD"
+        }
+      ],
       "family_name": "Byrne",
       "gender": "male",
       "given_name": "Eric",
@@ -5805,6 +6319,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/327.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/1220336033/c37d76ac-b21b-41b2-961b-706d560f00d0.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Eric_Byrne_2010.jpg"
         }
       ],
@@ -5816,6 +6333,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Eric_Byrne"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EricByrneTD"
         },
         {
           "note": "website",
@@ -5921,6 +6442,12 @@
     },
     {
       "birth_date": "1948-09-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Fergusodowd"
+        }
+      ],
       "family_name": "O'Dowd",
       "gender": "male",
       "given_name": "Fergus",
@@ -5939,6 +6466,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/219.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/576874203661615105/4kuE1RyZ.jpeg"
         }
       ],
       "links": [
@@ -5953,6 +6483,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Fergus_O'Dowd"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Fergusodowd"
         }
       ],
       "name": "Fergus O'Dowd",
@@ -6007,6 +6541,16 @@
     },
     {
       "birth_date": "1953-04-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Finianmcgrathtd"
+        },
+        {
+          "type": "twitter",
+          "value": "FinianMcGrath"
+        }
+      ],
       "family_name": "McGrath",
       "gender": "male",
       "given_name": "Finian",
@@ -6029,6 +6573,12 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/184.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/693394818714767360/rRC5_HzZ.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/858179961/FinianMcGrath.jpg"
         }
       ],
       "links": [
@@ -6039,6 +6589,14 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Finian_McGrath"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Finianmcgrathtd"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/FinianMcGrath"
         },
         {
           "note": "website",
@@ -6139,6 +6697,12 @@
     },
     {
       "birth_date": "1950-08-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FitzgeraldFrncs"
+        }
+      ],
       "family_name": "Fitzgerald",
       "gender": "female",
       "given_name": "Frances",
@@ -6157,6 +6721,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/114.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/676444090096054273/MPbqurib.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Frances_Fitzgerald_2011.jpg"
@@ -6186,6 +6753,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Frances_Fitzgerald"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/FitzgeraldFrncs"
         },
         {
           "note": "website",
@@ -6249,6 +6820,12 @@
     },
     {
       "birth_date": "1962-07-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FrankFeighan"
+        }
+      ],
       "family_name": "Feighan",
       "gender": "male",
       "given_name": "Frank",
@@ -6269,6 +6846,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/110.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/601393870883139584/8nqSBfFn.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Frank_Feighan_2014.jpg"
         }
       ],
@@ -6284,6 +6864,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Frank_Feighan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/FrankFeighan"
         }
       ],
       "name": "Frank Feighan",
@@ -6379,6 +6963,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gabmcfadden"
+        }
+      ],
       "family_name": "McFadden",
       "gender": "female",
       "given_name": "Gabrielle",
@@ -6397,6 +6987,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/401.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/659478063936311297/fk8iJq8c.jpg"
         }
       ],
       "links": [
@@ -6407,6 +7000,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Gabrielle_McFadden"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gabmcfadden"
         },
         {
           "note": "website",
@@ -6450,6 +7047,12 @@
     },
     {
       "birth_date": "1975",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "geraldnash"
+        }
+      ],
       "family_name": "Nash",
       "gender": "male",
       "given_name": "Gerald",
@@ -6468,6 +7071,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/343.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/92881847/Poster_pic.jpg"
         }
       ],
       "links": [
@@ -6478,6 +7084,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Gerald_Nash"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/geraldnash"
         },
         {
           "note": "website",
@@ -6531,6 +7141,12 @@
     },
     {
       "birth_date": "1948-10-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GerryAdamsSF"
+        }
+      ],
       "family_name": "Adams",
       "gender": "male",
       "given_name": "Gerry",
@@ -6621,6 +7237,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/342.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000559323457/77d9b9adb8a97f1a58b9be9b10706807.jpeg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Gerry_Adams_Easter_Lily_Badge_cropped.jpg"
@@ -6798,6 +7417,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/盖瑞·亚当斯"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GerryAdamsSF"
         }
       ],
       "name": "Gerry Adams",
@@ -7148,6 +7771,12 @@
     },
     {
       "birth_date": "1986",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "HMcEntee"
+        }
+      ],
       "family_name": "McEntee",
       "gender": "female",
       "given_name": "Helen",
@@ -7166,6 +7795,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/399.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/578322413814824960/TH-El1oJ.png"
         }
       ],
       "links": [
@@ -7180,6 +7812,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Helen_McEntee"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HMcEntee"
         }
       ],
       "name": "Helen McEntee",
@@ -7229,6 +7865,12 @@
     },
     {
       "birth_date": "1977",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "1Hildegarde"
+        }
+      ],
       "family_name": "Naughton",
       "gender": "female",
       "given_name": "Hildegarde",
@@ -7243,6 +7885,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/400.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/608754484307607554/DSgDGswd.png"
         }
       ],
       "links": [
@@ -7253,6 +7898,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Hildegarde_Naughton"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/1Hildegarde"
         }
       ],
       "name": "Hildegarde Naughton",
@@ -7544,6 +8193,12 @@
     },
     {
       "birth_date": "1958-03-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JamesBannonTD"
+        }
+      ],
       "family_name": "Bannon",
       "gender": "male",
       "given_name": "James",
@@ -7562,6 +8217,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/28.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/652112279153045505/BJTBhiPP.jpg"
         }
       ],
       "links": [
@@ -7572,6 +8230,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/James_Bannon"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JamesBannonTD"
         }
       ],
       "name": "James Bannon",
@@ -7626,6 +8288,12 @@
     },
     {
       "birth_date": "1975",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JamesforWexford"
+        }
+      ],
       "family_name": "Browne",
       "gender": "male",
       "given_name": "James",
@@ -7640,6 +8308,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/449.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/736251276476973056/suFQ8C7j.jpg"
         }
       ],
       "links": [
@@ -7650,6 +8321,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/James_Browne"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JamesforWexford"
         }
       ],
       "name": "James Browne",
@@ -7846,6 +8521,12 @@
     },
     {
       "birth_date": "1950-12-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JanOSullivanTD"
+        }
+      ],
       "family_name": "O'Sullivan",
       "gender": "female",
       "given_name": "Jan",
@@ -7864,6 +8545,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/233.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/744904093710200832/I6Uf5InK.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jan_O'Sullivan.jpg"
@@ -7893,6 +8577,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Jan_O'Sullivan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JanOSullivanTD"
         }
       ],
       "name": "Jan O'Sullivan",
@@ -7947,6 +8635,12 @@
     },
     {
       "birth_date": "1967-03-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jerrybuttimer"
+        }
+      ],
       "family_name": "Buttimer",
       "gender": "male",
       "given_name": "Jerry",
@@ -7975,6 +8669,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/51.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/659041849798238208/EJCWj8uN.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jerry_Buttimer_2014.jpg"
         }
       ],
@@ -7986,6 +8683,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Jerry_Buttimer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jerrybuttimer"
         },
         {
           "note": "website",
@@ -8039,6 +8740,12 @@
     },
     {
       "birth_date": "1972-12-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CllrJimDaly"
+        }
+      ],
       "family_name": "Daly",
       "gender": "male",
       "given_name": "Jim",
@@ -8057,6 +8764,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/310.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1240559528/New_Mayor_County_Cork_pic10.jpg"
         }
       ],
       "links": [
@@ -8067,6 +8777,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Jim_Daly"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CllrJimDaly"
         }
       ],
       "name": "Jim Daly",
@@ -8264,6 +8978,12 @@
     },
     {
       "birth_date": "1949-02-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "joanburton"
+        }
+      ],
       "family_name": "Burton",
       "gender": "female",
       "given_name": "Joan",
@@ -8286,6 +9006,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/49.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/693401740566253568/s0inPgzy.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Joan_Burton_crop.jpg"
@@ -8323,6 +9046,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Joan_Burton"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/joanburton"
         },
         {
           "note": "website",
@@ -8401,6 +9128,16 @@
     },
     {
       "birth_date": "1961-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JoanCollinsTD"
+        },
+        {
+          "type": "twitter",
+          "value": "CllrJoanCollins"
+        }
+      ],
       "family_name": "Collins",
       "gender": "female",
       "given_name": "Joan",
@@ -8421,6 +9158,12 @@
           "url": "https://www.kildarestreet.com/images/mpsL/329.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/598850304713555968/5RY9Tskj.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/952506216/jo-colli.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Joan_Collins_TD_2011.jpg"
         }
       ],
@@ -8434,12 +9177,24 @@
           "url": "https://ga.wikipedia.org/wiki/Joan_Collins_(polaiteoir)"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/JoanCollinsTD"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CllrJoanCollins"
+        },
+        {
           "note": "website",
           "url": "http://joancollins.wordpress.com"
         }
       ],
       "name": "Joan Collins",
       "other_names": [
+        {
+          "name": "Cllr. Joan Collins",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Joan Collins",
@@ -8480,6 +9235,12 @@
     },
     {
       "birth_date": "1965-03-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "joannatuffy"
+        }
+      ],
       "family_name": "Tuffy",
       "gender": "female",
       "given_name": "Joanna",
@@ -8500,6 +9261,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/264.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/697006797329211392/_e-FwxHO.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Joanna_Tuffy.jpg"
         }
       ],
@@ -8511,6 +9275,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Joanna_Tuffy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/joannatuffy"
         }
       ],
       "name": "Joanna Tuffy",
@@ -8560,6 +9328,12 @@
     },
     {
       "birth_date": "1975-06-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "joecareytd"
+        }
+      ],
       "family_name": "Carey",
       "gender": "male",
       "given_name": "Joe",
@@ -8582,6 +9356,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/59.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/695961644187447297/gq7WgU4c.jpg"
         }
       ],
       "links": [
@@ -8592,6 +9369,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Joe_Carey"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/joecareytd"
         }
       ],
       "name": "Joe Carey",
@@ -8641,6 +9422,12 @@
     },
     {
       "birth_date": "1945-07-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JoeCostelloTD"
+        }
+      ],
       "family_name": "Costello",
       "gender": "male",
       "given_name": "Joe",
@@ -8659,6 +9446,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/74.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/440741736/JC.jpg"
         }
       ],
       "links": [
@@ -8673,6 +9463,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Joe_Costello"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JoeCostelloTD"
         }
       ],
       "name": "Joe Costello",
@@ -8727,6 +9521,12 @@
     },
     {
       "birth_date": "1949-05-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JoeHigginsTD"
+        }
+      ],
       "family_name": "Higgins",
       "gender": "male",
       "given_name": "Joe",
@@ -8757,6 +9557,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/145.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000734379911/843eefdf425ba61a28b4a861e0a128b5.jpeg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Joe_Higgins.jpg"
@@ -8794,6 +9597,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Хиггинс,_Джо"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JoeHigginsTD"
         },
         {
           "note": "website",
@@ -8877,6 +9684,12 @@
     },
     {
       "birth_date": "1971-07-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Joe_McHugh_TD"
+        }
+      ],
       "family_name": "McHugh",
       "gender": "male",
       "given_name": "Joe",
@@ -8895,6 +9708,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/189.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/697434588952588288/b8tShKUS.jpg"
         }
       ],
       "links": [
@@ -8905,6 +9721,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Joe_McHugh"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Joe_McHugh_TD"
         },
         {
           "note": "website",
@@ -8963,6 +9783,16 @@
     },
     {
       "birth_date": "1955-04-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "joeoreillytd"
+        },
+        {
+          "type": "twitter",
+          "value": "oreilly4europe"
+        }
+      ],
       "family_name": "O'Reilly",
       "gender": "male",
       "given_name": "Joe",
@@ -8987,6 +9817,12 @@
           "url": "https://www.kildarestreet.com/images/mpsL/229.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/3510360524/be6ea96f6b12ea08b69f7ba8f8c6501d.jpeg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/180788980/OReillyJ.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Joe_O'Reilly_Irish_Cavan_politician_head.jpg"
         }
       ],
@@ -8998,10 +9834,26 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Joe_O'Reilly"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/joeoreillytd"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/oreilly4europe"
         }
       ],
       "name": "Joe O'Reilly",
       "other_names": [
+        {
+          "name": "Joe O Reilly",
+          "note": "alternate"
+        },
+        {
+          "name": "Joe O' Reilly",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Joe O'Reilly",
@@ -9335,6 +10187,12 @@
     },
     {
       "birth_date": "1967-10-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "4_JohnDeasyTD"
+        }
+      ],
       "family_name": "Deasy",
       "gender": "male",
       "given_name": "John",
@@ -9353,6 +10211,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/96.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/3238269186/6568e71794706d86361ec7a91a1d614b.png"
         }
       ],
       "links": [
@@ -9367,6 +10228,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/John_Deasy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/4_JohnDeasyTD"
         },
         {
           "note": "website",
@@ -9424,6 +10289,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JohnHalligan"
+        }
+      ],
       "family_name": "Halligan",
       "gender": "male",
       "given_name": "John",
@@ -9442,6 +10313,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/353.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/694958417493024768/emcfdkAM.jpg"
         }
       ],
       "links": [
@@ -9452,6 +10326,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/John_Halligan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JohnHalligan"
         }
       ],
       "name": "John Halligan",
@@ -9490,6 +10368,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JohnLahart"
+        }
+      ],
       "family_name": "Lahart",
       "gender": "male",
       "given_name": "John",
@@ -9504,6 +10388,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/434.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/695656448085377026/6PJOQs0B.jpg"
         }
       ],
       "links": [
@@ -9514,6 +10401,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/John_Lahart"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JohnLahart"
         }
       ],
       "name": "John Lahart",
@@ -9543,6 +10434,12 @@
     },
     {
       "birth_date": "1977-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JohnLyons77"
+        }
+      ],
       "family_name": "Lyons",
       "gender": "male",
       "given_name": "John",
@@ -9563,6 +10460,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/325.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/704660711193120768/1mB_zCdg.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/John_Lyons_2012.jpg"
         }
       ],
@@ -9574,6 +10474,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/John_Lyons"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JohnLyons77"
         }
       ],
       "name": "John Lyons",
@@ -9715,6 +10619,12 @@
     },
     {
       "birth_date": "1953-06-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "omahonyjohnno"
+        }
+      ],
       "family_name": "O'Mahony",
       "gender": "male",
       "given_name": "John",
@@ -9733,6 +10643,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/225.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/707178067278561280/2bqxrU18.jpg"
         }
       ],
       "links": [
@@ -9743,6 +10656,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/John_O'Mahony"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/omahonyjohnno"
         },
         {
           "note": "website",
@@ -9969,6 +10886,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JOBrien_SF"
+        }
+      ],
       "family_name": "O'Brien",
       "gender": "male",
       "given_name": "Jonathan",
@@ -9987,6 +10910,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/307.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/725093364996132869/eFZQZHDM.jpg"
         }
       ],
       "links": [
@@ -9997,6 +10923,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Jonathan_O'Brien"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JOBrien_SF"
         }
       ],
       "name": "Jonathan O'Brien",
@@ -10035,6 +10965,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "josephamadigan"
+        }
+      ],
       "family_name": "Madigan",
       "gender": "female",
       "given_name": "Josepha",
@@ -10049,6 +10985,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/412.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/681478169615024128/ar7kzme3.jpg"
         }
       ],
       "links": [
@@ -10059,10 +10998,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Josepha_Madigan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/josephamadigan"
         }
       ],
       "name": "Josepha Madigan",
       "other_names": [
+        {
+          "name": "☎️ Josepha Madigan",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Josepha Madigan",
@@ -10134,6 +11081,10 @@
       "contact_details": [
         {
           "type": "twitter",
+          "value": "KZapponeTD"
+        },
+        {
+          "type": "twitter",
           "value": "senatorkzappone"
         }
       ],
@@ -10151,6 +11102,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/397.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/712705992623001600/zzsK5Rj4.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Katherine_Zappone.png"
@@ -10176,6 +11130,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/캐서린_저폰"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KZapponeTD"
         },
         {
           "note": "twitter",
@@ -10290,6 +11248,12 @@
     },
     {
       "birth_date": "1953-06-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KathleenLynch05"
+        }
+      ],
       "family_name": "Lynch",
       "gender": "female",
       "given_name": "Kathleen",
@@ -10310,6 +11274,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/169.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/661880649406668800/FDSS1WqE.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kathleen_Lynch_2013.jpg"
         }
       ],
@@ -10325,6 +11292,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Kathleen_Lynch"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KathleenLynch05"
         }
       ],
       "name": "Kathleen Lynch",
@@ -10379,6 +11350,12 @@
     },
     {
       "birth_date": "1958",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KHumphreysTD"
+        }
+      ],
       "family_name": "Humphreys",
       "gender": "male",
       "given_name": "Kevin",
@@ -10399,6 +11376,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/330.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/666992119823925248/c_z2UU6Z.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kevin_Humphreys_2010.jpg"
         }
       ],
@@ -10410,6 +11390,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Kevin_Humphreys"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KHumphreysTD"
         },
         {
           "note": "website",
@@ -10650,6 +11634,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/267.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/712621850052988928/M9GsL-4p.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Leo_Varadkar_2008.jpg"
@@ -10983,6 +11970,12 @@
     },
     {
       "birth_date": "1980-01-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LCreighton"
+        }
+      ],
       "family_name": "Creighton",
       "gender": "female",
       "given_name": "Lucinda",
@@ -11005,6 +11998,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/83.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/731475833815175168/OnF2OMxl.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lucindacreighton.jpg"
@@ -11030,6 +12026,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Крейтон,_Люсинда"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LCreighton"
         },
         {
           "note": "website",
@@ -11432,6 +12432,12 @@
     },
     {
       "birth_date": "1978-08-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "martinheydonfg"
+        }
+      ],
       "family_name": "Heydon",
       "gender": "male",
       "given_name": "Martin",
@@ -11450,6 +12456,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/298.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/695601796786601985/f-fo03PM.jpg"
         }
       ],
       "links": [
@@ -11460,6 +12469,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Martin_Heydon"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/martinheydonfg"
         },
         {
           "note": "website",
@@ -11597,6 +12610,12 @@
     },
     {
       "birth_date": "1969-05-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MaryLouMcDonald"
+        }
+      ],
       "family_name": "McDonald",
       "gender": "female",
       "given_name": "Mary Lou",
@@ -11623,6 +12642,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/317.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/717472302116552704/MFA_JWMP.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mary_Lou_McDonald_2009.jpg"
@@ -11652,6 +12674,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Mary_Lou_McDonald"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MaryLouMcDonald"
         }
       ],
       "name": "Mary Lou McDonald",
@@ -11711,6 +12737,12 @@
     },
     {
       "birth_date": "1959-06-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mitchelloconnor"
+        }
+      ],
       "family_name": "Mitchell O'Connor",
       "gender": "female",
       "given_name": "Mary",
@@ -11731,6 +12763,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/316.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/660802011257036800/i3EChAT9.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mary_Mitchell_O'Connor_2011.jpg"
         }
       ],
@@ -11744,12 +12779,20 @@
           "url": "https://ga.wikipedia.org/wiki/Mary_Mitchell_O'Connor"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/mitchelloconnor"
+        },
+        {
           "note": "website",
           "url": "http://www.marymitchelloconnor.com/"
         }
       ],
       "name": "Mary Mitchell O'Connor",
       "other_names": [
+        {
+          "name": "MaryMitchellO'Connor",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Mary Mitchell O'Connor",
@@ -11795,6 +12838,12 @@
     },
     {
       "birth_date": "1958-09-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mattiemcgrathtd"
+        }
+      ],
       "family_name": "McGrath",
       "gender": "male",
       "given_name": "Mattie",
@@ -11813,6 +12862,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/185.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/665840198551478272/m5HjUKol.jpg"
         }
       ],
       "links": [
@@ -11823,6 +12875,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Mattie_McGrath"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mattiemcgrathtd"
         },
         {
           "note": "website",
@@ -11876,6 +12932,12 @@
     },
     {
       "birth_date": "1951-03-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MOSullivanTD"
+        }
+      ],
       "family_name": "O'Sullivan",
       "gender": "female",
       "given_name": "Maureen",
@@ -11896,6 +12958,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/294.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/705848070198665217/n0RANqzy.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Maureen_O'Sullivan_2013.jpg"
         }
       ],
@@ -11909,12 +12974,20 @@
           "url": "https://ga.wikipedia.org/wiki/Maureen_O'Sullivan"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/MOSullivanTD"
+        },
+        {
           "note": "website",
           "url": "http://www.maureenosullivan.ie/"
         }
       ],
       "name": "Maureen O'Sullivan",
       "other_names": [
+        {
+          "name": "Maureen O'SullivanTD",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Maureen O'Sullivan",
@@ -12072,6 +13145,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MichaelColreavy"
+        }
+      ],
       "family_name": "Colreavy",
       "gender": "male",
       "given_name": "Michael",
@@ -12092,6 +13171,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/350.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/1222167042/Michael-Colreavy-Offical-Pic.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Michael_Colreavy_2011.jpg"
         }
       ],
@@ -12103,6 +13185,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Michael_Colreavy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MichaelColreavy"
         },
         {
           "note": "website",
@@ -12427,6 +13513,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FitzForDail"
+        }
+      ],
       "family_name": "Fitzmaurice",
       "gender": "male",
       "given_name": "Michael",
@@ -12445,6 +13537,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/405.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/513039227664465920/TvMbEn1-.jpeg"
         }
       ],
       "links": [
@@ -12455,10 +13550,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Michael_Fitzmaurice"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/FitzForDail"
         }
       ],
       "name": "Michael Fitzmaurice",
       "other_names": [
+        {
+          "name": "MichaelFitzMauriceTD",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Michael Fitzmaurice",
@@ -12555,6 +13658,16 @@
     },
     {
       "birth_date": "1967-01-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MHealyRae"
+        },
+        {
+          "type": "twitter",
+          "value": "MichaelHealyRae"
+        }
+      ],
       "family_name": "Healy-Rae",
       "gender": "male",
       "given_name": "Michael",
@@ -12575,6 +13688,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/336.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/378800000503383434/e236339ebdfb5bfa66b9a18d52474030.jpeg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Michael_Healy_Rae_smiles_for_a_Constituent.JPG"
         }
       ],
@@ -12586,10 +13702,22 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Michael_Healy-Rae"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MHealyRae"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MichaelHealyRae"
         }
       ],
       "name": "Michael Healy-Rae",
       "other_names": [
+        {
+          "name": "Michael Healy Rae",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Michael Healy-Rae",
@@ -12709,6 +13837,12 @@
     },
     {
       "birth_date": "1953-03-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "michael_lowry"
+        }
+      ],
       "family_name": "Lowry",
       "gender": "male",
       "given_name": "Michael",
@@ -12727,6 +13861,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/166.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/645353891987607552/C6CdVNBr.jpg"
         }
       ],
       "links": [
@@ -12741,6 +13878,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Michael_Lowry"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/michael_lowry"
         },
         {
           "note": "website",
@@ -12799,6 +13940,12 @@
     },
     {
       "birth_date": "1976-11-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mmccarthy_mc"
+        }
+      ],
       "family_name": "McCarthy",
       "gender": "male",
       "given_name": "Michael",
@@ -12817,6 +13964,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/173.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/653932545000767488/0wSJxFG5.jpg"
         }
       ],
       "links": [
@@ -12829,12 +13979,20 @@
           "url": "https://ga.wikipedia.org/wiki/Michael_McCarthy"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/mmccarthy_mc"
+        },
+        {
           "note": "website",
           "url": "http://www.michaelmccarthy.ie"
         }
       ],
       "name": "Michael McCarthy",
       "other_names": [
+        {
+          "name": "Michael Mc Carthy",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Michael McCarthy",
@@ -12870,6 +14028,12 @@
     },
     {
       "birth_date": "1976-08-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DeputyMcGrathTD"
+        }
+      ],
       "family_name": "McGrath",
       "gender": "male",
       "given_name": "Michael",
@@ -12888,6 +14052,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/186.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/692430688482672643/0dqbBk9K.jpg"
         }
       ],
       "links": [
@@ -12898,6 +14065,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Michael_McGrath"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DeputyMcGrathTD"
         },
         {
           "note": "website",
@@ -13375,6 +14546,12 @@
     },
     {
       "birth_date": "1972-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MulherinFG"
+        }
+      ],
       "family_name": "Mulherin",
       "gender": "female",
       "given_name": "Michelle",
@@ -13393,6 +14570,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/345.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/714400490461798400/radxagSd.jpg"
         }
       ],
       "links": [
@@ -13403,6 +14583,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Michelle_Mulherin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MulherinFG"
         }
       ],
       "name": "Michelle Mulherin",
@@ -13442,6 +14626,12 @@
     },
     {
       "birth_date": "1960-08-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MichealMartinTD"
+        }
+      ],
       "family_name": "Martin",
       "gender": "male",
       "given_name": "Micheál",
@@ -13476,6 +14666,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/172.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2732527553/aef89ec48316e425e33689c991b11faf.jpeg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Micheál_Martin.jpg"
@@ -13525,6 +14718,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/邁克·馬丁"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MichealMartinTD"
         }
       ],
       "name": "Micheál Martin",
@@ -13686,6 +14883,12 @@
     },
     {
       "birth_date": "1955-11-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "wallacemick"
+        }
+      ],
       "family_name": "Wallace",
       "gender": "male",
       "given_name": "Mick",
@@ -13704,6 +14907,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/299.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/647056763724951552/AgswnnrY.jpg"
         }
       ],
       "links": [
@@ -13714,6 +14920,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Mick_Wallace"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/wallacemick"
         },
         {
           "note": "website",
@@ -13767,6 +14977,12 @@
     },
     {
       "birth_date": "1973-03-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NiallCollinsTD"
+        }
+      ],
       "family_name": "Collins",
       "gender": "male",
       "given_name": "Niall",
@@ -13785,6 +15001,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/67.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/647123844889747456/3vhuLqza.jpg"
         }
       ],
       "links": [
@@ -13795,6 +15014,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Niall_Collins"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NiallCollinsTD"
         },
         {
           "note": "website",
@@ -13890,6 +15113,12 @@
     },
     {
       "birth_date": "1951-01-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Noel_Coonan"
+        }
+      ],
       "family_name": "Coonan",
       "gender": "male",
       "given_name": "Noel",
@@ -13908,6 +15137,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/72.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/697748891396087809/XuCKWbbP.jpg"
         }
       ],
       "links": [
@@ -13922,6 +15154,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Noel_Coonan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Noel_Coonan"
         },
         {
           "note": "website",
@@ -14065,6 +15301,12 @@
     },
     {
       "birth_date": "1970-12-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nharrington2"
+        }
+      ],
       "family_name": "Harrington",
       "gender": "male",
       "given_name": "Noel",
@@ -14083,6 +15325,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/311.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/705139393439408128/rDo297eL.jpg"
         }
       ],
       "links": [
@@ -14093,6 +15338,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Noel_Harrington"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nharrington2"
         }
       ],
       "name": "Noel Harrington",
@@ -14185,6 +15434,12 @@
     },
     {
       "birth_date": "1947-07-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "oliviamitchelo"
+        }
+      ],
       "family_name": "Mitchell",
       "gender": "female",
       "given_name": "Olivia",
@@ -14205,6 +15460,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/194.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/611095847267381248/KaS3ei_9.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Olivia_Mitchell.jpg"
         }
       ],
@@ -14220,6 +15478,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Olivia_Mitchell"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/oliviamitchelo"
         }
       ],
       "name": "Olivia Mitchell",
@@ -14274,6 +15536,12 @@
     },
     {
       "birth_date": "1974-09-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Paschald"
+        }
+      ],
       "family_name": "Donohoe",
       "gender": "male",
       "given_name": "Paschal",
@@ -14296,6 +15564,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/288.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/689507924671086592/urSOm6pz.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Paschal_Donohoe_2012.jpg"
@@ -14321,6 +15592,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Paschal_Donohoe"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Paschald"
         },
         {
           "note": "website",
@@ -14379,6 +15654,12 @@
     },
     {
       "birth_date": "1957-03-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PatBreen1"
+        }
+      ],
       "family_name": "Breen",
       "gender": "male",
       "given_name": "Pat",
@@ -14397,6 +15678,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/39.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/747875926613032962/4p7rkZ2p.jpg"
         }
       ],
       "links": [
@@ -14419,6 +15703,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Pat_Breen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PatBreen1"
         },
         {
           "note": "website",
@@ -14591,6 +15879,20 @@
     },
     {
       "birth_date": "1967-02-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PatDeeringTD"
+        },
+        {
+          "type": "twitter",
+          "value": "PatDeeringFG"
+        },
+        {
+          "type": "twitter",
+          "value": "Patdeering"
+        }
+      ],
       "family_name": "Deering",
       "gender": "male",
       "given_name": "Pat",
@@ -14609,6 +15911,15 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/301.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/447370629684412416/shf0tmTQ.jpeg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1210998367/pat_deering.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/433614652590010368/ycM-tBoQ.jpeg"
         }
       ],
       "links": [
@@ -14619,6 +15930,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Pat_Deering"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Patdeering"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PatDeeringFG"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PatDeeringTD"
         },
         {
           "note": "website",
@@ -14942,6 +16265,12 @@
     },
     {
       "birth_date": "1977-03-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "podonovan"
+        }
+      ],
       "family_name": "O'Donovan",
       "gender": "male",
       "given_name": "Patrick",
@@ -14960,6 +16289,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/340.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/735747660020228097/Gx-dqyeO.jpg"
         }
       ],
       "links": [
@@ -14970,6 +16302,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Patrick_O'Donovan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/podonovan"
         },
         {
           "note": "website",
@@ -15008,6 +16344,12 @@
     },
     {
       "birth_date": "1969-05-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PaudieCoffey"
+        }
+      ],
       "family_name": "Coffey",
       "gender": "male",
       "given_name": "Paudie",
@@ -15026,6 +16368,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/64.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1735700874/image.jpg"
         }
       ],
       "links": [
@@ -15036,6 +16381,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Paudie_Coffey"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PaudieCoffey"
         }
       ],
       "name": "Paudie Coffey",
@@ -15085,6 +16434,12 @@
     },
     {
       "birth_date": "1982-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "connaughtonpaul"
+        }
+      ],
       "family_name": "Connaughton",
       "gender": "male",
       "given_name": "Paul",
@@ -15103,6 +16458,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/362.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1208218638/41635_560988008_9196_q.jpg"
         }
       ],
       "links": [
@@ -15113,10 +16471,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Paul_(Óg)_Connaughton"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/connaughtonpaul"
         }
       ],
       "name": "Paul Connaughton",
       "other_names": [
+        {
+          "name": "CllrPaulConnaughton",
+          "note": "alternate"
+        },
         {
           "name": "Paul Connaughton, Jnr",
           "note": "alternate"
@@ -15151,6 +16517,16 @@
     },
     {
       "birth_date": "1973-01-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "campaign4kehoe"
+        },
+        {
+          "type": "twitter",
+          "value": "PaulKehoeTD"
+        }
+      ],
       "family_name": "Kehoe",
       "gender": "male",
       "given_name": "Paul",
@@ -15169,6 +16545,12 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/152.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/707551396493656064/dNVYO5-k.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1228139376/slide_pkehoeenda.jpg"
         }
       ],
       "links": [
@@ -15185,12 +16567,24 @@
           "url": "https://sco.wikipedia.org/wiki/Paul_Kehoe"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/campaign4kehoe"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PaulKehoeTD"
+        },
+        {
           "note": "website",
           "url": "http://www.paulkehoe.com"
         }
       ],
       "name": "Paul Kehoe",
       "other_names": [
+        {
+          "name": "PaulKehoeTD",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Paul Kehoe",
@@ -15241,6 +16635,12 @@
     },
     {
       "birth_date": "1983-04-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "paulmurphyAAA"
+        }
+      ],
       "family_name": "Murphy",
       "gender": "male",
       "given_name": "Paul",
@@ -15267,6 +16667,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/404.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/529248626506100737/yjVxSbwq.jpeg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Paul_Murphy_2013.jpg"
@@ -15304,6 +16707,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Paul_Murphy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/paulmurphyAAA"
         },
         {
           "note": "website",
@@ -15402,6 +16809,12 @@
     },
     {
       "birth_date": "1974-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Toibin1"
+        }
+      ],
       "family_name": "Tóibín",
       "gender": "male",
       "given_name": "Peadar",
@@ -15422,6 +16835,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/348.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/701882018741805056/2Y0Q_uTK.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peadar_Tóibín_2012.jpg"
         }
       ],
@@ -15433,6 +16849,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Peadar_Tóibín"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Toibin1"
         }
       ],
       "name": "Peadar Tóibín",
@@ -15482,6 +16902,12 @@
     },
     {
       "birth_date": "1977-07-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PearseDoherty"
+        }
+      ],
       "family_name": "Doherty",
       "gender": "male",
       "given_name": "Pearse",
@@ -15502,6 +16928,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/102.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/463242485003997184/JYfKiFl5.jpeg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pearse_Doherty_2011.jpg"
         }
       ],
@@ -15517,6 +16946,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Piaras_Ó_Dochartaigh"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PearseDoherty"
         }
       ],
       "name": "Pearse Doherty",
@@ -15623,6 +17056,12 @@
     },
     {
       "birth_date": "1962-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PFitzpatrickTD"
+        }
+      ],
       "family_name": "Fitzpatrick",
       "gender": "male",
       "given_name": "Peter",
@@ -15641,6 +17080,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/344.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/538268398698762241/Eck7FPob.png"
         }
       ],
       "links": [
@@ -15651,6 +17093,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Peter_Fitzpatrick"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PFitzpatrickTD"
         }
       ],
       "name": "Peter Fitzpatrick",
@@ -15695,6 +17141,12 @@
     },
     {
       "birth_date": "1951-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "pbmathews"
+        }
+      ],
       "family_name": "Mathews",
       "gender": "male",
       "given_name": "Peter",
@@ -15713,6 +17165,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/326.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1226633362/82cc8ab4-f482-4a82-8171-cef6aaec006f.png"
         }
       ],
       "links": [
@@ -15723,6 +17178,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Peter_Mathews"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/pbmathews"
         }
       ],
       "name": "Peter Mathews",
@@ -15777,6 +17236,12 @@
     },
     {
       "birth_date": "1973-06-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PadraigMacL"
+        }
+      ],
       "family_name": "MacLochlainn",
       "gender": "male",
       "given_name": "Pádraig",
@@ -15797,6 +17262,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/312.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/746463570951548928/SY2qy3k-.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pádraig_Mac_Lochlainn_2014.jpg"
         }
       ],
@@ -15810,12 +17278,20 @@
           "url": "https://ga.wikipedia.org/wiki/Pádraig_Mac_Lochlainn"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/PadraigMacL"
+        },
+        {
           "note": "website",
           "url": "http://www.donegalsf.com/representatives/937"
         }
       ],
       "name": "Pádraig MacLochlainn",
       "other_names": [
+        {
+          "name": "PadraigMacLochlainn",
+          "note": "alternate"
+        },
         {
           "name": "Pádraig Mac Lochlainn",
           "note": "alternate"
@@ -15922,6 +17398,12 @@
     },
     {
       "birth_date": "1971-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ReginaDo"
+        }
+      ],
       "family_name": "Doherty",
       "gender": "female",
       "given_name": "Regina",
@@ -15942,6 +17424,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/346.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/623442402381037569/SB5d3S1a.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Regina_Doherty_2015.jpg"
         }
       ],
@@ -15953,6 +17438,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Regina_Doherty"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ReginaDo"
         },
         {
           "note": "website",
@@ -15996,6 +17485,12 @@
     },
     {
       "birth_date": "1967-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RBoydBarrett"
+        }
+      ],
       "family_name": "Boyd Barrett",
       "gender": "male",
       "given_name": "Richard",
@@ -16016,6 +17511,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/315.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/703670791989301252/lINmAWDI.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Richard_Boyd_Barrett_flipped.jpg"
         }
       ],
@@ -16031,6 +17529,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Richard_Boyd_Barrett"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RBoydBarrett"
         },
         {
           "note": "website",
@@ -16084,6 +17586,12 @@
     },
     {
       "birth_date": "1953-03-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RichardbrutonTD"
+        }
+      ],
       "family_name": "Bruton",
       "gender": "male",
       "given_name": "Richard",
@@ -16110,6 +17618,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/46.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/608962901429350400/eeKFbyDR.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Richard_Bruton_2011.jpg"
@@ -16143,6 +17654,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Richard_Bruton"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RichardbrutonTD"
         },
         {
           "note": "website",
@@ -16231,6 +17746,12 @@
     },
     {
       "birth_date": "1953-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "robert_dowdsTD"
+        }
+      ],
       "family_name": "Dowds",
       "gender": "male",
       "given_name": "Robert",
@@ -16249,6 +17770,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/318.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1622141765/Election_Photo.jpg"
         }
       ],
       "links": [
@@ -16259,6 +17783,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Robert_Dowds"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/robert_dowdsTD"
         }
       ],
       "name": "Robert Dowds",
@@ -16298,6 +17826,12 @@
     },
     {
       "birth_date": "1982-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RobertTroyTD"
+        }
+      ],
       "family_name": "Troy",
       "gender": "male",
       "given_name": "Robert",
@@ -16316,6 +17850,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/341.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/684676456711065601/BXSOYQzP.jpg"
         }
       ],
       "links": [
@@ -16330,6 +17867,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Robert_Troy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RobertTroyTD"
         },
         {
           "note": "website",
@@ -16570,6 +18111,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RuthCoppingerTD"
+        }
+      ],
       "family_name": "Coppinger",
       "gender": "female",
       "given_name": "Ruth",
@@ -16588,6 +18135,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/402.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/704977087749296128/KSrF_6eS.jpg"
         }
       ],
       "links": [
@@ -16598,6 +18148,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Ruth_Coppinger"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RuthCoppingerTD"
         },
         {
           "note": "website",
@@ -16641,6 +18195,12 @@
     },
     {
       "birth_date": "1954-04-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RoisinShortall"
+        }
+      ],
       "family_name": "Shortall",
       "gender": "female",
       "given_name": "Róisín",
@@ -16659,6 +18219,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/257.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/726006246235594752/l3N8PmXv.jpg"
         }
       ],
       "links": [
@@ -16675,12 +18238,20 @@
           "url": "https://sco.wikipedia.org/wiki/Róisín_Shortall"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/RoisinShortall"
+        },
+        {
           "note": "website",
           "url": "http://www.roisinshortall.ie/"
         }
       ],
       "name": "Róisín Shortall",
       "other_names": [
+        {
+          "name": "Roisin Shortall",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Róisín Shortall",
@@ -16803,6 +18374,12 @@
     },
     {
       "birth_date": "1944-08-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SeanBarrettTD"
+        }
+      ],
       "family_name": "Barrett",
       "gender": "male",
       "given_name": "Seán",
@@ -16821,6 +18398,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/29.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1222099060/eff8e729-3863-4d59-81c8-02046496d794.png"
         }
       ],
       "links": [
@@ -16839,10 +18419,18 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Seán_Barrett"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SeanBarrettTD"
         }
       ],
       "name": "Seán Barrett",
       "other_names": [
+        {
+          "name": "Sean Barrett",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Seán Barrett",
@@ -17031,6 +18619,12 @@
     },
     {
       "birth_date": "1957-03-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SeanCroweTD"
+        }
+      ],
       "family_name": "Crowe",
       "gender": "male",
       "given_name": "Seán",
@@ -17055,6 +18649,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/84.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/433238208399167488/8hh5sUv5.png"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Seán_Crowe_2014.jpg"
         }
       ],
@@ -17066,6 +18663,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Seán_Crowe"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SeanCroweTD"
         }
       ],
       "name": "Seán Crowe",
@@ -17303,6 +18904,12 @@
     },
     {
       "birth_date": "1942-10-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SeanKennyLabour"
+        }
+      ],
       "family_name": "Kenny",
       "gender": "male",
       "given_name": "Seán",
@@ -17321,6 +18928,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/323.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/460840436899119104/4OMV2e1C.png"
         }
       ],
       "links": [
@@ -17337,12 +18947,20 @@
           "url": "https://ga.wikipedia.org/wiki/Seán_Kenny"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/SeanKennyLabour"
+        },
+        {
           "note": "website",
           "url": "http://www.seankenny.ie"
         }
       ],
       "name": "Seán Kenny",
       "other_names": [
+        {
+          "name": "Sean Kenny",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Seán Kenny",
@@ -17469,6 +19087,12 @@
     },
     {
       "birth_date": "1972-12-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "seansherlocktd"
+        }
+      ],
       "family_name": "Sherlock",
       "gender": "male",
       "given_name": "Seán",
@@ -17493,6 +19117,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/256.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/737574704936947715/7zNmWoMb.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Seán_Sherlock.JPG"
         }
       ],
@@ -17504,6 +19131,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Seán_Sherlock"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/seansherlocktd"
         },
         {
           "note": "website",
@@ -17698,6 +19329,12 @@
     },
     {
       "birth_date": "1949-07-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Shane_RossTD"
+        }
+      ],
       "family_name": "Ross",
       "gender": "male",
       "given_name": "Shane",
@@ -17728,6 +19365,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/244.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1218230061/Ross_Front_Profile.jpg"
         }
       ],
       "links": [
@@ -17746,6 +19386,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Shane_Ross"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Shane_RossTD"
         },
         {
           "note": "website",
@@ -17829,6 +19473,12 @@
     },
     {
       "birth_date": "1972-06-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "simoncoveney"
+        }
+      ],
       "family_name": "Coveney",
       "gender": "male",
       "given_name": "Simon",
@@ -17859,6 +19509,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/76.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/640197030019788800/9tBb4T_F.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Simon_Coveney2.png"
@@ -17892,6 +19545,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Simon_Coveney"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/simoncoveney"
         },
         {
           "note": "website",
@@ -17980,6 +19637,12 @@
     },
     {
       "birth_date": "1986-12-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SimonHarrisTD"
+        }
+      ],
       "family_name": "Harris",
       "gender": "male",
       "given_name": "Simon",
@@ -18002,6 +19665,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/358.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/705036284138549249/ubWJs-MQ.jpg"
         }
       ],
       "links": [
@@ -18016,6 +19682,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Simon_Harris"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SimonHarrisTD"
         },
         {
           "note": "website",
@@ -18064,6 +19734,12 @@
     },
     {
       "birth_date": "1975",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DonnellyStephen"
+        }
+      ],
       "family_name": "Donnelly",
       "gender": "male",
       "given_name": "Stephen",
@@ -18088,6 +19764,9 @@
           "url": "https://www.kildarestreet.com/images/mpsL/359.jpg"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/696299769078140929/ybuSeetG.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stephen_Donnelly_2016.jpg"
         }
       ],
@@ -18099,6 +19778,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Stephen_Donnelly"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DonnellyStephen"
         },
         {
           "note": "website",
@@ -18157,6 +19840,12 @@
     },
     {
       "birth_date": "1950-08-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SeamusHealyTD"
+        }
+      ],
       "family_name": "Healy",
       "gender": "male",
       "given_name": "Séamus",
@@ -18175,6 +19864,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/140.png"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/745752006040649728/AxuCwFDi.jpg"
         }
       ],
       "links": [
@@ -18185,6 +19877,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Séamus_Healy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SeamusHealyTD"
         }
       ],
       "name": "Séamus Healy",
@@ -18435,6 +20131,12 @@
     },
     {
       "birth_date": "1977-06-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ThomasByrneTD"
+        }
+      ],
       "family_name": "Byrne",
       "gender": "male",
       "given_name": "Thomas",
@@ -18449,6 +20151,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/53.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/651504886694215680/0ae37d1f.jpg"
         }
       ],
       "links": [
@@ -18463,6 +20168,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Thomas_Byrne"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ThomasByrneTD"
         }
       ],
       "name": "Thomas Byrne",
@@ -18517,6 +20226,12 @@
     },
     {
       "birth_date": "1967-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ThomasPringleTD"
+        }
+      ],
       "family_name": "Pringle",
       "gender": "male",
       "given_name": "Thomas",
@@ -18535,6 +20250,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/314.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1258429057/41592_154920954552844_1612063_n.jpg"
         }
       ],
       "links": [
@@ -18545,6 +20263,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Thomas_Pringle"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ThomasPringleTD"
         },
         {
           "note": "website",
@@ -18702,6 +20424,12 @@
     },
     {
       "birth_date": "1968-10-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TomBarryTD"
+        }
+      ],
       "family_name": "Barry",
       "gender": "male",
       "given_name": "Tom",
@@ -18720,6 +20448,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/305.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1206862740/44931_106909936040675_100001650074800_54606_2644334_n.jpg"
         }
       ],
       "links": [
@@ -18730,6 +20461,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Tom_Barry"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TomBarryTD"
         },
         {
           "note": "website",
@@ -18889,6 +20624,12 @@
     },
     {
       "birth_date": "1952-02-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Tomhayestd"
+        }
+      ],
       "family_name": "Hayes",
       "gender": "male",
       "given_name": "Tom",
@@ -18907,6 +20648,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/139.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/696656340526243841/5hSfxabS.jpg"
         }
       ],
       "links": [
@@ -18921,6 +20665,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Tom_Hayes"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Tomhayestd"
         },
         {
           "note": "website",
@@ -19026,6 +20774,12 @@
     },
     {
       "birth_date": "1947-08-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TommyBroughanTD"
+        }
+      ],
       "family_name": "Broughan",
       "gender": "male",
       "given_name": "Tommy",
@@ -19044,6 +20798,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/42.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/464404678709506049/RD9m4cUp.png"
         }
       ],
       "links": [
@@ -19058,6 +20815,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Tommy_Broughan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TommyBroughanTD"
         },
         {
           "note": "website",
@@ -19116,6 +20877,16 @@
     },
     {
       "birth_date": "1949-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TonyMcLTD"
+        },
+        {
+          "type": "twitter",
+          "value": "CllrTMcLoughlin"
+        }
+      ],
       "family_name": "McLoughlin",
       "gender": "male",
       "given_name": "Tony",
@@ -19134,6 +20905,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/349.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/644264793822625792/Y1kZQE2I.jpg"
         }
       ],
       "links": [
@@ -19144,6 +20918,14 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Tony_McLoughlin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TonyMcLTD"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CllrTMcLoughlin"
         }
       ],
       "name": "Tony McLoughlin",
@@ -19183,6 +20965,12 @@
     },
     {
       "birth_date": "1952-11-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "willieodeaLIVE"
+        }
+      ],
       "family_name": "O'Dea",
       "gender": "male",
       "given_name": "Willie",
@@ -19209,6 +20997,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/214.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/745922779443245056/BzfwWHar.jpg"
         }
       ],
       "links": [
@@ -19235,6 +21026,10 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Willie_O'Dea"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/willieodeaLIVE"
         },
         {
           "note": "website",
@@ -19313,6 +21108,12 @@
     },
     {
       "birth_date": "1956-08-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "WilliePenroseTD"
+        }
+      ],
       "family_name": "Penrose",
       "gender": "male",
       "given_name": "Willie",
@@ -19331,6 +21132,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/239.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/440885732/WP.jpg"
         }
       ],
       "links": [
@@ -19345,6 +21149,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Willie_Penrose"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/WilliePenroseTD"
         }
       ],
       "name": "Willie Penrose",
@@ -19419,6 +21227,12 @@
     },
     {
       "birth_date": "1969-09-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AineCollinsTD"
+        }
+      ],
       "family_name": "Collins",
       "gender": "female",
       "given_name": "Áine",
@@ -19437,6 +21251,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/309.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/646340885626638337/4ybswlJv.jpg"
         }
       ],
       "links": [
@@ -19447,10 +21264,18 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Áine_Collins"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AineCollinsTD"
         }
       ],
       "name": "Áine Collins",
       "other_names": [
+        {
+          "name": "Aine Collins",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Áine Collins",
@@ -19486,6 +21311,12 @@
     },
     {
       "birth_date": "1950-06-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "eamonocuiv"
+        }
+      ],
       "family_name": "Ó Cuív",
       "gender": "male",
       "given_name": "Éamon",
@@ -19508,6 +21339,9 @@
       "images": [
         {
           "url": "https://www.kildarestreet.com/images/mpsL/2.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/733316683327275008/vWbaFQK6.jpg"
         }
       ],
       "links": [
@@ -19534,6 +21368,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Éamon_Ó_Cuív"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/eamonocuiv"
         }
       ],
       "name": "Éamon Ó Cuív",
@@ -21368,6 +23206,7 @@
   "meta": {
     "sources": [
       "https://www.kildarestreet.com",
+      "https://twitter.com/elainebyrne/lists/irish-politicians",
       "http://wikidata.org/"
     ]
   },
