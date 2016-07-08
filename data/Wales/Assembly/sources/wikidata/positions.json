@@ -531,18 +531,30 @@
       "id": "Q18996",
       "label": "First Minister of Wales",
       "title": "First Minister of Wales",
-      "description": "leader of the Welsh Government"
+      "description": "leader of the Welsh Government",
+      "qualifiers": {
+        "P580": "2009-12-10",
+        "P1365": "Rhodri Morgan"
+      }
     },
     {
       "id": "Q5176615",
       "label": "Counsel General for Wales",
-      "title": "Counsel General for Wales"
+      "title": "Counsel General for Wales",
+      "qualifiers": {
+        "P580": "2007-07-19",
+        "P1365": "",
+        "P1366": "John Griffiths"
+      }
     },
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
-      "description": "member of the legislature of Wales"
+      "description": "member of the legislature of Wales",
+      "qualifiers": {
+        "P580": "1999-05-06"
+      }
     },
     {
       "id": "Q23766510",
@@ -550,7 +562,8 @@
       "title": "Leader of Welsh Labour",
       "description": "UK party leader",
       "qualifiers": {
-        "P580": "2009-12-10"
+        "P580": "2009-12-10",
+        "P1365": "Rhodri Morgan"
       }
     }
   ],
